@@ -12,6 +12,7 @@
 - Use a random timezone on every spec run
 - Make VCR filter all Rails secrets by default
 - Update gem versions
+- Update jumpup to `0.0.7`
 
 ## 0.0.15 (July 4, 2014)
 
