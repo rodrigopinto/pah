@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.0.18 (unreleased)
+## 0.0.18 (December 2, 2014)
 
 ### features
 
